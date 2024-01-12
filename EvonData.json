@@ -1,5 +1,6 @@
 {
     "Evon_Version": "2.5",
+    "Disable_ForcedUpdate": false,
     "Evon_DiscordInvitation": "https://discord.gg/MkGxAjMHnu",
     "Keyless": false,
     "Access_DevKit": true
